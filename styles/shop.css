@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner-container{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 500px;
+}
+.banner-image{
+    width: 400px;
+    margin-bottom: 0px;
+}
+.heading{
+    margin-bottom:30px ;
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+ font-weight: 800;
+line-height: normal;
+}
+.info{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 12px;
+    font-style: normal;
+    line-height: 20px;  
+}
+.btn-primary{
+    margin-top: 30px;
+    padding: 10px 20px;
+    border-radius: 8px;
+background: #E55473;
+color: white;
+border:0 ;
+}
+
+
+.deal-container{
+    margin-top:120px ;
+    margin-bottom: 120px;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+justify-content: space-around;
+padding: 100px 50px;
+    
+}
+.hot-deal{
+    text-align: center;
+}
+.other-pic{
+    width: 200px;
+}
+.title-info{
+    text-align: center;
+}
+.instra-pic{
+    display: flex;
+    margin-top:40px ;
+    margin-bottom: 120px;
+    justify-content: space-around;
+}
+
+{
+    .footer-container{
+        background: #111010;  
+    }
+}
+.background-container #image{
+    width: 100%;
+    position: relative;
+}
